@@ -7,7 +7,7 @@
 
 <h2 align="center">
 
-[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-%2B-black.svg?style=flat)](http://linktr.ee/kiplymacho)
+[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-black.svg?style=flat)](http://linktr.ee/kiplymacho)
 
 # voucher gojek claim voucher terbaru
 
