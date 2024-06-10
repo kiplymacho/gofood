@@ -7,7 +7,7 @@
 
 <h2 align="center">
 
-[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
+[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-%2B-black.svg?style=flat)](http://linktr.ee/kiplymacho)
 
 # voucher gojek claim voucher terbaru
 
@@ -19,7 +19,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini:
 
 👇👇
 
-[![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
+[![termux](https://img.shields.io/badge/termux-71%2B-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
 
 Unduh Script gofood Dibawah ini:
 
